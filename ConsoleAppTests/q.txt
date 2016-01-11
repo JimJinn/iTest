@@ -1,0 +1,5 @@
+<QueryList>
+  <Query Id="0" Path="Application">
+    <Select Path="Application">*[System[(EventID=64)]]</Select>
+  </Query>
+</QueryList>
